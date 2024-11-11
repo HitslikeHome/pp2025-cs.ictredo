@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: USTH CS2
+* Student Name: BUI QUANG HUY
 * Student ID: 22BI13188
 
